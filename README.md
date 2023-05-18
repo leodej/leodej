@@ -1,44 +1,22 @@
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				.tags {
-					display: flex;
-					flex-wrap: wrap;
-					height: 100%;
-					width: 100%;
-				}
-				.tag {
-					background-color: #e3ffff;
-					border-radius: 0.25em;
-					color: #0ca4a5;
-					border: 1px solid #0ca4a5;
-					display: inline-block;
-					font-size: 0.75em;
-					line-height: 2em;
-					margin: 0.125em;
-					padding: 0 0.5em;
-					text-decoration: none;
-					font-family: sans-serif;
-				}
-			</style>
+## Leandro Gomes!
+<div align="center">
+  <a href="https://github.com/rafaelsrubim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leodej&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodej&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </div>
+  
+  ##
+ 
+<div> 
+   <a href="https://instagram.com/leobigo1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:leandrogomes.posto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafael-rubim-ba11a6b0/](https://www.linkedin.com/in/leandro-gomes-aa566063/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-			<div class="tags">
-				<div class="tag">Angular</div>
-				<div class="tag">Vue(X)</div>
-				<div class="tag">JavaScript</div>
-				<div class="tag">TypeScript</div>
-			</div>
-			<div class="tags">
-				<div class="tag">(S)CSS</div>
-				<div class="tag">Building UIs</div>
-				<div class="tag">Web Components</div>
-			</div>
-			<div class="tags">
-				<div class="tag">Ionic</div>
-				<div class="tag">Electron</div>
-				<div class="tag">.NET</div>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+</div>
